@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1059853366304",
+    "project_id": "sdpd-final",
+    "storage_bucket": "sdpd-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059853366304:android:ef62385a4b6c07ad57f845",
+        "android_client_info": {
+          "package_name": "com.example.tictactoe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdJyziXqpgDQP2I6x37TmbNDaDlO4IQKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
