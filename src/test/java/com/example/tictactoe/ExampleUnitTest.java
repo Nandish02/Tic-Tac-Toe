@@ -1,4 +1,4 @@
-package androidsamples.java.tictactoe;
+package com.example.tictactoe;
 
 import org.junit.Test;
 
